@@ -9,9 +9,9 @@
     text-decoration: none;
 }
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
+    --color-bg: rgb(15,20,30);
+    --color-bg-variant: #02568E;
+    --color-primary: #02568E;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
@@ -60,16 +60,16 @@ section > h2 {
 }
 
 .text-light {
-    color: var(--color-light);
+    color: var(--color-bg);
 }
  
 a {
-    color: var(--color-primary);
+    color: var(--color-white);
     transition: var(--transition);
 }
 
 a:hover {
-    color: var(--color-white);
+    color: var(--color-primary);
 }
 
 .btn {
@@ -83,7 +83,7 @@ a:hover {
     transition: var(--transition);
 }
 .btn:hover {
-    background: var(--color-white);
+    background: var(--color-primary);
     color: var(--color-bg);
     border-color: transparent;
 }
@@ -91,6 +91,11 @@ a:hover {
 .btn-primary {
     background: var(--color-primary);
     color: var(--color-bg);
+}
+.btn-primary:hover {
+    background: var(--color-bg);
+    color: var(--color-primary);
+    border-color: var(--color-primary);
 }
 img {
     display: block;
