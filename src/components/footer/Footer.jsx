@@ -22,7 +22,7 @@ const Footer = () => {
         {/* <h4>Add me on:</h4> */}
         <a href="https://www.linkedin.com/in/luyolo-mntuyedwa-48b593201/"><AiFillLinkedin/></a>
         <a href="https://www.facebook.com/luyololuja.mntuyedwa/"><BsFacebook/></a>
-        <a href="https://twitter.com/iamLuyolo_"><AiOutlineTwitter/></a>
+        <a href="https://twitter.com/iamLuyolo"><AiOutlineTwitter/></a>
       </div>
 
       <div className="footer__copyright">
