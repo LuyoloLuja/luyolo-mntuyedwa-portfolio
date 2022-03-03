@@ -61,13 +61,6 @@ header {
     font-size: 0.9rem;
 }
 
-/* medium*/
-@media screen and (max-width: 1024px) {
-    header {
-        /* height: 68vh; */
-    }
-}
-
 /* small*/
 @media screen and (max-width: 600px) {
     header {
