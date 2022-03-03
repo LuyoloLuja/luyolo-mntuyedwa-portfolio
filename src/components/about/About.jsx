@@ -40,9 +40,22 @@ const About = () => {
             </article>            
           </div>
 
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet ratione modi maiores molestiae quisquam nobis esse, pariatur facilis tenetur corrupti, soluta, itaque sequi dicta odit deleniti neque accusantium et. Unde!
-          </p>
+          <div>
+            <p>
+              I am an ex-bartender who loves doing magic with code.
+              <br /><br />
+              I first became fascinated by programming in 2016. I was still working as a bartender at some local tarven, my cousin
+              brother was telling me about how he was looking for people to build him a website
+              for his business. We started looking for companies that do web development, and as someone who was always been fascinated 
+              by technology, I was hooked.
+              <br /><br />
+              The following year, 2017, I enrolled at Richfield Graduate Institute of Technology to study Information Technology. Unfortunately,
+              I couldn't complete my qualification because of financial problems. After a few months of self-teaching, I knew this was what I wanted 
+              to do for my career. So, I signed up for the codeX web dev programme and put my heart and soul into it. I was coding every day, late into the night, and on weekends.
+              <br /><br />
+              Since the programme, I have grown as a developer, I'm now seeking a full-time role where I can contribute my skills to help a company achieve their goals.
+            </p>
+          </div>
           <a href="#contact" className='btn btn-primary'>Contact Me</a>     
         </div>
       </div>

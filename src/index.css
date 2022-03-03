@@ -121,4 +121,7 @@ img {
     section > h2 {
         margin-bottom: 6=2rem;
     }
+    p {
+        font-size: 14px;
+    }
 }
