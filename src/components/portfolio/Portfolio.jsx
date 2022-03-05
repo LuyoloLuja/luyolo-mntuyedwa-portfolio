@@ -27,7 +27,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'Pricing Component',
-    description: "South Africa is a very dynamic country, with 11 official languages. With this web application we are teaching users to greet with some of South Africa's official languages",
+    description: "What would be a website with little or no traffic? More traffic means more business, especially for e-commerce. With this app users are enabled to choose a plan they plan for their websites to have more traffic",
     github: "https://github.com/LuyoloLuja/interactive-pricing-component-main",
     demo: "https://interactive-pricing-component-main-eta.vercel.app/"
   }

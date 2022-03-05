@@ -20,9 +20,9 @@ const Footer = () => {
 
       <div className="footer__socials">
         {/* <h4>Add me on:</h4> */}
-        <a href="https://www.linkedin.com/in/luyolo-mntuyedwa-48b593201/"><AiFillLinkedin/></a>
-        <a href="https://www.facebook.com/luyololuja.mntuyedwa/"><BsFacebook/></a>
-        <a href="https://twitter.com/iamLuyolo"><AiOutlineTwitter/></a>
+        <a href="https://www.linkedin.com/in/luyolo-mntuyedwa-48b593201/" target="_blank"><AiFillLinkedin/></a>
+        <a href="https://www.facebook.com/luyololuja.mntuyedwa/" target="_blank"><BsFacebook/></a>
+        <a href="https://twitter.com/iamLuyolo" target="_blank"><AiOutlineTwitter/></a>
       </div>
 
       <div className="footer__copyright">
