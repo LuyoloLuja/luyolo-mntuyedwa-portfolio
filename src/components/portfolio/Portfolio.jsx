@@ -19,7 +19,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Crowd Funding',
-    description: "South Africa is a very dynamic country, with 11 official languages. With this web application we are teaching users to greet with some of South Africa's official languages",
+    description: "Many good business ideas don't get to see the light due to lack of capital, even the youth end up being college dropout due too lack of funds. With this project people can raise funds and get their businesses up and running",
     github: "https://github.com/LuyoloLuja/crowdfunding",
     demo: "https://luyololuja.github.io/crowdfunding/"
   },

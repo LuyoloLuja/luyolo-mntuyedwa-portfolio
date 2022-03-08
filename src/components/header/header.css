@@ -67,7 +67,7 @@ header {
 /* small*/
 @media screen and (max-width: 600px) {
     header {
-        padding-top: 8rem;
+        padding-top: 4rem;
     }
     .cta a {
         font-size: 14px;
