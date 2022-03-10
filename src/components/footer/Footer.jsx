@@ -8,8 +8,6 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>luyoloMntuyedwa</a>
-
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -19,7 +17,6 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        {/* <h4>Add me on:</h4> */}
         <a href="https://www.linkedin.com/in/luyolo-mntuyedwa-48b593201/" target="_blank"><AiFillLinkedin/></a>
         <a href="https://www.facebook.com/luyololuja.mntuyedwa/" target="_blank"><BsFacebook/></a>
         <a href="https://twitter.com/iamLuyolo" target="_blank"><AiOutlineTwitter/></a>
