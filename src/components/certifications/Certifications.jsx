@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Pagination } from 'swiper';
+import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -10,7 +10,7 @@ import 'swiper/css/pagination';
 import './Certifications.css';
 import IMG1 from '../../assets/simplilearn.jpg';
 import IMG2 from '../../assets/Learning JDBC.jpg';
-import IMG3 from '../../assets/codex.jpg';
+import IMG3 from '../../assets/freecodecamp.png';
 
 const certificates = [
   {
@@ -19,9 +19,9 @@ const certificates = [
   {
     avatar: IMG2,
   },
-  // {
-  //   avatar: IMG3,
-  // },
+  {
+    avatar: IMG3,
+  },
 ]
 
 const Certifications = () => {
@@ -32,7 +32,7 @@ const Certifications = () => {
 
       <Swiper className="container certs__container"
           // install Swiper modules
-        modules={[Pagination]}
+        modules={[Navigation, Pagination, Scrollbar, A11y]}
         spaceBetween={40}
         slidesPerView={1}
         pagination={{ clickable: true }}
