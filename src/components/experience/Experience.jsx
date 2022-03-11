@@ -25,7 +25,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillCheckCircleFill className='experience__details-icon'/>
               <div>
-                <h4>CSS</h4>
+                <h4>CSS & SASS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
