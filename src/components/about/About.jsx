@@ -4,18 +4,18 @@ import {BsFillPeopleFill} from 'react-icons/bs'
 import {AiTwotoneFolderOpen} from 'react-icons/ai'
 
 import './about.css'
-import ME from '../../assets/luja.jpg'
+import ME from '../../assets/luyolo1.jpg'
 
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get To Know Me</h5>
+      <h5>Who is Luyolo Mntuyedwa?</h5>
       <h2>About Me</h2>
 
       <div className="container about__container">
         <div className="about__me">
             <div className="about__me-image">
-              <img src={ME} alt="Luyolo Mntuyedwa" />
+              {/* <img src={ME} alt="Luyolo Mntuyedwa" /> */}
             </div>
         </div>
 

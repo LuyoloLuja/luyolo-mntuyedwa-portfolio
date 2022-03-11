@@ -10,6 +10,7 @@ import 'swiper/css/pagination';
 import './Certifications.css';
 import IMG1 from '../../assets/simplilearn.jpg';
 import IMG2 from '../../assets/Learning JDBC.jpg';
+import IMG3 from '../../assets/codex.jpg';
 
 const certificates = [
   {
@@ -18,6 +19,9 @@ const certificates = [
   {
     avatar: IMG2,
   },
+  // {
+  //   avatar: IMG3,
+  // },
 ]
 
 const Certifications = () => {

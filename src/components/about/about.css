@@ -7,20 +7,11 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
+    background-image: url(../../assets/luyolo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     display: grid;
     place-items: center;
-}
-.about__me-image img {
-    border-radius: 2rem;
-    overflow: hidden;
-    transform: rotate(-10deg);
-    background-size: inherit;
-    object-fit: cover;
-}
-.about__me-image img:hover {
-    transform: rotate(0);
-    transition: var(--transition);
 }
 
 .about__cards {
@@ -28,7 +19,6 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
 }
-
 
 .about__card {
     background: var(--color-bg-variant);
