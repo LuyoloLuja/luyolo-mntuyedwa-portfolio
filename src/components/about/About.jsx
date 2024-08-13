@@ -42,18 +42,14 @@ const About = () => {
 
           <div>
             <p>
-              I am an ex-bartender who loves doing magic with code.
+              A developer who loves doing magic with code.
               <br /><br />
-              I first became fascinated by programming in 2016. I was still working as a bartender at some local tarven, my cousin
-              brother was telling me about how he was looking for people to build him a website
-              for his business. We started looking for companies that do web development, and as someone who was always been fascinated 
-              by technology, I was hooked.
+              I'm a passionate Junior Software Developer with a knack for turning ideas into functional, user-friendly web applications. 
+              With a background in software development, I thrive on solving problems and learning new technologies. My journey so far 
+              has been fueled by curiosity and a love for creating efficient, elegant code. Whether it's building responsive web interfaces 
+              or exploring the latest in tech, I'm always eager to take on new challenges and grow as a developer.
               <br /><br />
-              The following year, 2017, I enrolled at Richfield Graduate Institute of Technology to study Information Technology. Unfortunately,
-              I couldn't complete my qualification because of financial problems. After a few months of self-teaching, I knew this was what I wanted 
-              to do for my career. So, I signed up for the codeX web dev programme and put my heart and soul into it. I was coding every day, late into the night, and on weekends.
-              <br /><br />
-              Since the programme, I have grown as a developer, I'm now seeking a full-time role where I can contribute my skills to help a company achieve their goals.
+              I have grown as a developer, I'm now seeking a full-time or freelancing role where I can contribute my skills to help organisations achieve their goals.
             </p>
           </div>
           <a href="#contact" className='btn btn-primary'>Contact Me</a>     

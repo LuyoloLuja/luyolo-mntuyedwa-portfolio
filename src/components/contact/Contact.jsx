@@ -33,22 +33,22 @@ const Contact = () => {
           <article className='contact__option'>
             <FiMail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>luyolom19@gmail.com</h5>
-            <a href="mailto:luyolom19@gmail.com" target="_blank">send an email</a>
+            <h5>luyolo.mntuyedwa97@gmail.com</h5>
+            <a href="mailto:luyolo.mntuyedwa97@gmail.com" target="_blank" rel="noopener noreferrer">send an email</a>
           </article>
 
           <article className='contact__option'>
             <BsMessenger className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Luyolo Mntuyedwa</h5>
-            <a href="https://m.me/luyololuja.mntuyedwa" target="_blank">send a message</a>
+            <a href="https://m.me/luyololuja.mntuyedwa" target="_blank" rel="noopener noreferrer">send a message</a>
           </article>
 
           <article className='contact__option'>
             <FaWhatsappSquare className='contact__option-icon'/>
             <h4>Whatsapp</h4>
-            <h5>+27 677 249 134</h5>
-            <a href="https://api.whatsapp.com/send?phone=+27677249134" target="_blank">send a message</a>
+            <h5>+279 132 2482</h5>
+            <a href="https://api.whatsapp.com/send?phone=+2791322482" target="_blank" rel="noopener noreferrer">send a message</a>
           </article>
         </div>
 
