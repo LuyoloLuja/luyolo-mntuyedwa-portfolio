@@ -1,2 +1,2 @@
-Please visit [my portfolio website](https://luyolo-mntuyedwa-portfolio.herokuapp.com/)!
+Please visit [my portfolio website](https://luyolo-mntuyedwa-portfolio.vercel.app/)!
 

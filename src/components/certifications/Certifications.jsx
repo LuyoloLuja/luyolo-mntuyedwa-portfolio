@@ -8,11 +8,15 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 import './Certifications.css';
+import IMG from '../../assets/codex.jpg';
 import IMG1 from '../../assets/simplilearn.jpg';
 import IMG2 from '../../assets/Learning JDBC.jpg';
 import IMG3 from '../../assets/freecodecamp.png';
 
 const certificates = [
+  // {
+  //   avatar: IMG
+  // },
   {
     avatar: IMG1,
   },
