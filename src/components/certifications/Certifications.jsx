@@ -15,9 +15,9 @@ import IMG2 from '../../assets/Learning JDBC.jpg';
 import IMG3 from '../../assets/freecodecamp.png';
 
 const certificates = [
-  // {
-  //   avatar: IMG
-  // },
+  {
+    avatar: IMG
+  },
   {
     avatar: IMG0
   },
