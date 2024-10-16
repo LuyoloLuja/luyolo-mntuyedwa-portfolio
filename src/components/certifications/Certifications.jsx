@@ -8,27 +8,27 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 import './Certifications.css';
-import IMG from '../../assets/codex.jpg';
 import IMG0 from '../../assets/freecodecamp-csharp-foundational.png';
 import IMG1 from '../../assets/simplilearn.jpg';
 import IMG2 from '../../assets/Learning JDBC.jpg';
 import IMG3 from '../../assets/freecodecamp.png';
+import IMG4 from '../../assets/codex.jpg';
 
 const certificates = [
-  {
-    avatar: IMG
-  },
   {
     avatar: IMG0
   },
   {
-    avatar: IMG1,
+    avatar: IMG1
   },
   {
     avatar: IMG2,
   },
   {
     avatar: IMG3,
+  },
+  {
+    avatar: IMG4,
   },
 ]
 
