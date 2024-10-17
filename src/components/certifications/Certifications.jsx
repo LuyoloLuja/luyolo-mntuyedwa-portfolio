@@ -8,6 +8,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 import './Certifications.css';
+
 import IMG0 from '../../assets/freecodecamp-csharp-foundational.png';
 import IMG1 from '../../assets/simplilearn.jpg';
 import IMG2 from '../../assets/Learning JDBC.jpg';
@@ -60,5 +61,4 @@ const Certifications = () => {
     </section>
   )
 }
-
 export default Certifications
