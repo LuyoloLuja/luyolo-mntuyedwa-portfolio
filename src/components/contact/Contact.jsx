@@ -1,11 +1,11 @@
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
 
-import {FiMail} from 'react-icons/fi'
-import {BsMessenger} from 'react-icons/bs'
-import {FaWhatsappSquare} from 'react-icons/fa'
+import {FiMail} from 'react-icons/fi';
+import {BsMessenger} from 'react-icons/bs';
+import {FaWhatsappSquare} from 'react-icons/fa';
 
-import './contact.css'
+import './contact.css';
 
 const Contact = () => {
   const form = useRef();
@@ -16,6 +16,7 @@ const Contact = () => {
     emailjs.sendForm('service_p680l5k', 'template_5e13ihr', form.current, 'igLS2OdOHf26z7IcT')
       .then((result) => {
           console.log(result.text);
+          alert("Form Submitted");
       }, (error) => {
           console.log(error.text);
       });
