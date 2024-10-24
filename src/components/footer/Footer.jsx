@@ -17,13 +17,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/luyolo-mntuyedwa-48b593201/" target="_blank"><AiFillLinkedin/></a>
-        <a href="https://www.facebook.com/luyololuja.mntuyedwa/" target="_blank"><BsFacebook/></a>
+        <a href="https://www.linkedin.com/in/luyolo-mntuyedwa/" target="_blank"><AiFillLinkedin/></a>
+        <a href="https://www.facebook.com/luyolo.mntuyedwa/" target="_blank"><BsFacebook/></a>
         <a href="https://twitter.com/iamLuyolo" target="_blank"><AiOutlineTwitter/></a>
       </div>
 
       <div className="footer__copyright">
-          <small>&copy; Luyolo Mntuyedwa. All rights reserved. 2022</small>
+          <small>&copy; Luyolo Mntuyedwa. All rights reserved. 2024</small>
         </div>
     </footer>
   )
