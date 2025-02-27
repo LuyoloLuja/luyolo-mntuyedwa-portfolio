@@ -4,7 +4,6 @@ import './portfolio.css'
 import IMG1 from '../../assets/learn.png'
 import IMG2 from '../../assets/crowdfunding.png'
 import IMG3 from '../../assets/component.png'
-// import IMG4 from '../../assets/crowdfunding.png'
 
 const data = [
   {
